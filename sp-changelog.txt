@@ -1,0 +1,47 @@
+Version 1.2.0 - 23 Dec 2021
+     [Update]
+          - [Add] Wage Agreement option for Job
+          - Update the Username for profile link insteads of ID
+          - Update SEO for remaining pages
+
+     [FIXED]
+          - Fixed the Captcha issues in the Login/Register form
+          - Fixed the adding user role issue
+          - Fixed the 500 issues
+          - Fixed the searching issue in the Company listing, Candidate listing
+          - Fixed attribute for company module
+          - Fixed Child-location in the search form
+          - Fixed Stripe gateway style
+          - Fixed the remaining Multi-language issues
+          - Improve the queries 
+
+Version 1.1.0 - 18 Nov 2021
+
+     [ADD]
+          + Update the Landing Page mode
+          + Update Job package 
+          + Add 5 payment gateways: Paypal, Stripe, Flutter wave, Razorpay, Two checkout
+          + Add new Homepage layout 4-5-6
+          + Add new Job list Layout 2-7
+          + Add new Job detail layout 3
+          + Allow application job form to upload files directly from the Apply form
+          + Add new Employers list layout 2-3
+          + Add new Employers detail layout 3
+          + Add new Candidates list layout 2-3
+          + Add new Candidate detail layout 3
+          + Add GIGs module and related features
+
+
+     [FIXED]
+          + On mobile when you click on menu the whole header gets hidden
+          + Candidate role cant apply job
+          + Update form search on banner
+          
+
+Version 1.0.1 –  25 September 2021
+    
+[HOT FIX]
+ - Fixed missing 'meta' column issue
+ - Fixed the candidate role can change role to other roles
+
+V1.0.0 - 24 September 2021 First Release
